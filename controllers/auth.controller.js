@@ -10,9 +10,7 @@ exports.signup = async (req,res) => {
     //1. read req body
     const request_body = req.body  // this gets me the req body in the form of js obj  
 
-
-    //2. insert the data in the users collections in mongodb 
-    //3. Return the response back to the user
+   
     
     const userObj = {
         name : request_body.name,
@@ -28,11 +26,11 @@ exports.signup = async (req,res) => {
         // return now
         res.status(201).send(user_created) // 201 means successfully created
     }catch(err){
-        consolele.log("Error while registering the user...",err)
+        console.log("Error while registering the user...",err)
         res.status(500).send({
             message : "Some Error Happened while registering the user"
         }) //500 means internal server error
     }
     
 }
-//contoller ke pass both req and res ka control hona chahiye 
+
