@@ -8,6 +8,8 @@ const server_config = require('./configs/server.config')
 const db_config = require('./configs/db.config')
 const user_model = require('./models/user.model')
 const bcrypt = require('bcryptjs')
+app.use(express.json())     
+app.use(express.urlencoded({ extended: true })) 
 
 
 // create an admin user at start of the application, if not alrdy present
